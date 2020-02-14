@@ -75,11 +75,7 @@
         {
             "codActiRelacionada": 19,
             "descripcion": "Topografía"
-        },
-        {
-            "codActiRelacionada": 20,
-            "descripcion": "Manipulación de sustancias químicas"
         }
     ],
-    "count": 20
+    "count": 19
   }
