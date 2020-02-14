@@ -1,0 +1,1767 @@
+{
+    "data": [
+        {
+            "label": "XSAN GERENCIA DE RRHH DIV.SUR",
+            "data": "103",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE RRHH DIVISION SUR",
+                    "data": "434",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "XSAN GERENCIA DE MANTENIMIENTO MINA",
+            "data": "109",
+            "children": []
+        },
+        {
+            "label": "XSAN GERENCIA DE MINA",
+            "data": "110",
+            "children": []
+        },
+        {
+            "label": "XSDS GERENCIA ADJUNTO DE ASUNTOS PUBLICOS",
+            "data": "113",
+            "children": []
+        },
+        {
+            "label": "XSAN GERENCIA LEGAL DIV. SUR",
+            "data": "114",
+            "children": []
+        },
+        {
+            "label": "XSAN GERENCIA DE SERVICIOS TÉCNICOS",
+            "data": "116",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE INGENIERIA",
+            "data": "118",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA",
+                    "data": "264",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "XLB GERENCIA DE EVALUACIONES PD",
+            "data": "12",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE RELACIONES COMUNITARIAS",
+            "data": "121",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL",
+                    "data": "213",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE NEGOCIACION DE TIERRA",
+                    "data": "253",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELACIONES INSTITUCIO",
+                    "data": "272",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL ANTAPA",
+                    "data": "2759",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE UNIDADES DE GESTION S",
+                    "data": "2760",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS Y PLANEAMIE",
+                    "data": "2761",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION DE ORGANIZACI",
+                    "data": "2762",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO, CONTROL",
+                    "data": "2995",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL DE GESTION",
+                    "data": "395",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO SOCIAL",
+                    "data": "396",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL",
+                    "data": "397",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RRCC",
+                    "data": "398",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO SOSTENIBLE",
+                    "data": "403",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RIESGOS Y PROTECCION INTERNA",
+            "data": "122",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE RIESGOS, ASEGURAMIENT",
+                    "data": "2175",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RIESGOS, ASEGURAMIENT",
+                    "data": "288",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RIESGOS Y DS",
+                    "data": "391",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE SALUD Y SEGURIDAD",
+            "data": "123",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE HIGIENE Y SALUD OCUPA",
+                    "data": "387",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SEGURIDAD",
+                    "data": "388",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE INGENIERIA MINA",
+            "data": "124",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROPIEDADES Y CONCESI",
+                    "data": "2192",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE EXPLORACIONES Y SOSTE",
+                    "data": "2193",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOLOGIA MINA",
+                    "data": "2194",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOTECNIA",
+                    "data": "232",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO A LARGO",
+                    "data": "2961",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO MINA",
+                    "data": "316",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE EXPLORACIONES - PROYE",
+                    "data": "331",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO ESTRATEG",
+                    "data": "378",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOTECNIA E HIDROLOGI",
+                    "data": "381",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOLOGIA Y EXPLORACIO",
+                    "data": "385",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE EXPLORACIONES",
+            "data": "125",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE INGENIERIA",
+            "data": "126",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS",
+                    "data": "238",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL ESTRATEGICO",
+                    "data": "2702",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE EJECUCION PLAN DE CIE",
+                    "data": "276",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA SERVICIOS OPERACIONALES",
+                    "data": "369",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE ADMINISTRACION Y SERVICIOS",
+            "data": "130",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS SOCIALES",
+                    "data": "241",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INSUMOS ESTRATEGICOS",
+                    "data": "314",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SERVICIOS",
+                    "data": "386",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENTE DE MANTENIMIENTO MINA",
+            "data": "133",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO Y CONTRO",
+                    "data": "2668",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO MECÁNIC",
+                    "data": "2669",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO MECANIC",
+                    "data": "351",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA DE MANTENI",
+                    "data": "353",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO ELECTRI",
+                    "data": "355",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE MEDIO AMBIENTE",
+            "data": "134",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE HIDROGEOLOGIA Y RECUR",
+                    "data": "251",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION DE CIERRE",
+                    "data": "259",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTIÓN SOCIO AMBIENT",
+                    "data": "279",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION DE CIERRE",
+                    "data": "2979",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MEDIO AMBIENTE",
+                    "data": "352",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CIERRE DE MINA",
+                    "data": "354",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE MINA",
+            "data": "135",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PERFORACION Y VOLADUR",
+                    "data": "347",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE OPERACIONES MINA",
+                    "data": "348",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION",
+                    "data": "349",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONSTRUCCION Y DRENAJ",
+                    "data": "350",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE PROCESOS",
+            "data": "137",
+            "children": []
+        },
+        {
+            "label": null,
+            "data": "15",
+            "children": []
+        },
+        {
+            "label": "GERENTE GENERAL LAS BAMBAS",
+            "data": "153",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO DE NEGOCIO",
+                    "data": "226",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELACIONES INSTITUCIO",
+                    "data": "245",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO LOCAL",
+                    "data": "282",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE COMUNICACIONES",
+                    "data": "294",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO LOCAL",
+                    "data": "298",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MEDIO AMBIENTE",
+                    "data": "317",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SEGURIDAD Y SALUD",
+                    "data": "319",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RECURSOS HUMANOS",
+                    "data": "320",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SEGURIDAD Y SALUD",
+                    "data": "467",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA LEGAL DE PROYECTOS",
+            "data": "160",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA LEGAL PROYECTOS",
+                    "data": "305",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RECURSOS HUMANOS",
+            "data": "175",
+            "children": []
+        },
+        {
+            "label": "GERENTE DE DESARROLLO METALURGICO",
+            "data": "181",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE CIERRE RELAVES",
+                    "data": "231",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PRESERVACION DE PLANT",
+                    "data": "260",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INVEST Y DESARROLLO",
+                    "data": "261",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INVESTIGACION Y DESAR",
+                    "data": "270",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CIERRE PLANTAS Y MINA",
+                    "data": "405",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "SUPERINTENDENTE DE COMUNICACIONES LBA",
+            "data": "182",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERÍA",
+                    "data": "304",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA LEGAL DE OPERACIONES",
+            "data": "183",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROPIEDADES Y CONCESI",
+                    "data": "3000",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA LEGAL OPERACIONES",
+                    "data": "311",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "TECNICO DE CONTROL DE PROCESOS DE MUESTR",
+            "data": "1834",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS - JV",
+                    "data": "1997",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANNING Y REPORTING",
+                    "data": "2021",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTABILIDAD ANTAPACC",
+                    "data": "2022",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENTE DE COROCCOHUAYCO",
+            "data": "184",
+            "children": []
+        },
+        {
+            "label": "SUPERINTENDENTE DE RECURSOS HUMANOS OPER",
+            "data": "186",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE PROYECTOS",
+            "data": "187",
+            "children": []
+        },
+        {
+            "label": "SUPERINTENDENTE DE RECURSOS HUMANOS PROY",
+            "data": "189",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INVESTIGACION METALUR",
+                    "data": "274",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO METALURGIC",
+                    "data": "281",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENTE LEGAL DE OPERACIONES",
+            "data": "193",
+            "children": []
+        },
+        {
+            "label": "ASISTENTE ADMINISTRATIVO RELACIONES COMU",
+            "data": "198",
+            "children": []
+        },
+        {
+            "label": "SUPERVISOR DE RELACIONES INSTITUCIONALES",
+            "data": "207",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE PROCESOS TINTAYA",
+            "data": "2151",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE OPERACIONES SULFUROS",
+                    "data": "2147",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO TINTAYA",
+                    "data": "2148",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE METALURGIA",
+                    "data": "2149",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELAVES Y AGUAS",
+                    "data": "2150",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SEGURIDAD, SALUD Y PROTECCION IN",
+            "data": "2271",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE ADMINISTRACION Y SERVICIOS",
+            "data": "2286",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INSUMOS ESTRATEGICOS",
+                    "data": "2460",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA GENERAL TINTAYA  ANTAPACCAY",
+            "data": "2287",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO ORGANIZACI",
+                    "data": "2493",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE COMUNICACION Y ASUNTO",
+                    "data": "2619",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE SERVICIOS TÉCNICOS",
+            "data": "2290",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE GEOLOGÍA Y EXPLORACIO",
+                    "data": "2391",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE OPERAC  CORCCOHUAYCO",
+                    "data": "2425",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RECURSOS HUMANOS",
+            "data": "2298",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE FINANZAS DIV. SUR.",
+            "data": "2330",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE SERVICIOS Y TI DIV. SUR.",
+            "data": "2331",
+            "children": []
+        },
+        {
+            "label": "GERENCIA LEGAL DIV. SUR",
+            "data": "2332",
+            "children": []
+        },
+        {
+            "label": "GERENCIA  INGENIERIA Y PROYECTOS DIV.SUR",
+            "data": "2342",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE MEDIO AMBIENTE DIV. SUR",
+            "data": "2363",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GRAL PROY SUR PERU 1",
+            "data": "2366",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE MANTENIMIENTO MINA",
+            "data": "2369",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA DE MANTTO",
+                    "data": "2355",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA MANTENIMIENTO MECÁNICO M",
+                    "data": "2591",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "ASISTENTE ADMINISTRATIVO DE MINA",
+            "data": "237",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GRAL DESARROLLO DE NUEVOS NEGOCI",
+            "data": "2387",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE RRHH DIV.SUR",
+            "data": "2388",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA RRHH DIVISION SUR",
+                    "data": "2447",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA RRHH PROYECTOS",
+                    "data": "2529",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA GENERAL NORANDA ANTAMINA",
+            "data": "2418",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE LEGAL NOAN",
+            "data": "2419",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE FINANZAS NOAN",
+            "data": "2420",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL NORANDA ANTAMINA 2",
+            "data": "2421",
+            "children": []
+        },
+        {
+            "label": "SUPERINTENDENTE DE RELACIONES INSTITUCIO",
+            "data": "246",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE EXPLORACIONES BROWNFI",
+                    "data": "665",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO MINA OP",
+                    "data": "889",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTO MINA SUBTERR",
+                    "data": "955",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE ANALISIS SOCIAL CC",
+                    "data": "971",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE PROCESOS ANTAPACCAY",
+            "data": "2522",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE RELAVES ANTAPACCAY",
+                    "data": "2531",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PRODUCCIÓN ANTAPACCAY",
+                    "data": "2555",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE METALURGIA ANTAPACCAY",
+                    "data": "2556",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE SITIO",
+            "data": "2524",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA MECANICO",
+                    "data": "2523",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SALUD Y SEGURIDAD",
+                    "data": "2525",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONSTRUCCIÓN LÍNEA EL",
+                    "data": "2533",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA GENERAL ASUNTOS CORPORATIVOS",
+            "data": "2528",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE FONDO SOCIAL",
+                    "data": "2569",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELACIONES INSTITUCIO",
+                    "data": "2571",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO LOCAL",
+                    "data": "2572",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA  DE PROTECCIÓN DE ACTIVOS",
+            "data": "2546",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL DE ADMINISTRACION Y SERV",
+            "data": "2548",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE APLICACIONES TI",
+                    "data": "2573",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "PRACTICANTE DE SUPERINTENDECIA DE DESARO",
+            "data": "256",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL DE ASUNTOS LEGALES - PER",
+            "data": "2567",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA LEGAL PROYECTOS",
+                    "data": "2563",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA LEGAL TINTAYA ANTAPACCAY",
+                    "data": "2564",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE ASUNTOS LEGALES CORP.",
+                    "data": "2615",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE MEDIO AMBIENTE",
+            "data": "2575",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE INGENIERÍA",
+            "data": "2576",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA",
+                    "data": "2426",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE OPERACIONES MINERAS ANTAPACCA",
+            "data": "2579",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE OPERACIONES MINA ANTA",
+                    "data": "2537",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONSTRUCCIÓN Y DRENAJ",
+                    "data": "2580",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PERFORACIÓN Y VOLADUR",
+                    "data": "2610",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA CORPORATIVO DE CUMPLIMIENTO",
+            "data": "2620",
+            "children": []
+        },
+        {
+            "label": "GERENCIA LEGAL PROYECTOS MINEROS",
+            "data": "2621",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE SALUD Y SEGURIDAD",
+            "data": "2622",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE SALUD",
+                    "data": "2449",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RIESGOS Y PROTECCIÓN INTERNA",
+            "data": "2624",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE RIESGOS Y DS",
+                    "data": "2448",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE FINANZAS1",
+            "data": "2644",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE ADMINISTRACION ESTRAT",
+                    "data": "40",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTABILIDAD PDSA",
+                    "data": "41",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE CONTABILIDAD Y  FINANZAS COBR",
+            "data": "27",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANNING Y REPORTING",
+                    "data": "136",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANNING Y REPORTING",
+                    "data": "138",
+                    "children": [
+                        {
+                            "label": "SUPERINTENDENCIA DE PLANNING & REPORTING",
+                            "data": "233",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTABILIDAD E IMPUES",
+                    "data": "158",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL INTERNO",
+                    "data": "2716",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE SERVICIOS DE SITIO",
+            "data": "2700",
+            "children": []
+        },
+        {
+            "label": "GERENTE DE CONTABILIDAD Y  FINANZAS COBR",
+            "data": "28",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE RELACIONES INSTITUCIONALES",
+            "data": "295",
+            "children": []
+        },
+        {
+            "label": "GERENCIA SENIOR DE OPERACIONES MINA",
+            "data": "2998",
+            "children": []
+        },
+        {
+            "label": "GERENCIA SENIOR DE MINA",
+            "data": "2999",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS DE EXPANSI",
+                    "data": "3226",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE ADMINISTRACION Y SERVI",
+            "data": "3001",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS DESARROLLO",
+                    "data": "240",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SERVICIOS GENERALES",
+                    "data": "262",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE TRANSPORTE DE CONCENT",
+                    "data": "3018",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE COMPRAS Y ALMACEN",
+                    "data": "3019",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS SOCIALES",
+                    "data": "3059",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTRATOS",
+                    "data": "315",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE LOGISTICA",
+                    "data": "371",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE TI",
+                    "data": "862",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE RECURSOS HUMANOS",
+            "data": "3003",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE ASUNTOS LABORALES Y R",
+                    "data": "2710",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SERVICIOS GENERALES",
+                    "data": "3154",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RECURSOS HUMANOS",
+                    "data": "392",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE MANTENIMIENTO",
+            "data": "3004",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA DE MANTENI-MINA",
+                    "data": "2818",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO MECANIC-MINA",
+                    "data": "2819",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO ELECTRI-MINA",
+                    "data": "2820",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INGENIERIA DE MANTENI-PLANTA",
+                    "data": "2821",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO MECANIC-PLANTA",
+                    "data": "2822",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO ELECTRI-PLANTA",
+                    "data": "2823",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO PLANTA",
+                    "data": "3073",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE PROCESOS",
+            "data": "3005",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO ELÉCTRI",
+                    "data": "2670",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE AGUAS Y RELAVES",
+                    "data": "2769",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DCS CONTROL DE PROCESOS",
+                    "data": "277",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION DE CALIDAD",
+                    "data": "280",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS Y OPTIMIZAC",
+                    "data": "3020",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PRODUCCION - TYA",
+                    "data": "3165",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE AGUAS Y RELAVES TYA-A",
+                    "data": "3187",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE LABORATORIO QUIMICO",
+                    "data": "341",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO ELECTRI",
+                    "data": "342",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTENIMIENTO MECANIC",
+                    "data": "343",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE METALURGIA",
+                    "data": "345",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO Y CONTRO",
+                    "data": "346",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE AGUAS & RELAVES",
+                    "data": "376",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PRODUCCION",
+                    "data": "377",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE PROYECTOS",
+            "data": "3007",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO MINA OP",
+                    "data": "197",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INVESTIGACION METALUR",
+                    "data": "2130",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE INVESTIGACION METALUR",
+                    "data": "2131",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO ESTRATÉG",
+                    "data": "242",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS",
+                    "data": "2968",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS MECANICOS",
+                    "data": "3083",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PROPIEDADES Y CONCESI",
+                    "data": "382",
+                    "children": [
+                        {
+                            "label": "SUPERINTENDENCIA DE PROPIEDADES Y CONCESI",
+                            "data": "2191",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA SENIOR DE SERVICIOS DE SITIO",
+            "data": "3008",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL GPHO",
+            "data": "3046",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL DE ASUNTOS LEGALES",
+            "data": "32",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE ASUNTOS LEGALES CORPO",
+                    "data": "164",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RELACIONES COMUNITARIAS",
+            "data": "321",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE VIABILIDAD SOCIAL",
+                    "data": "604",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE REASENTAMIENTO",
+                    "data": "605",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RESPONSABILIDAD SOCIA",
+                    "data": "752",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE MINA",
+            "data": "3223",
+            "children": []
+        },
+        {
+            "label": "GERENCIA ADMINISTRATIVO",
+            "data": "326",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE LOGISTICA DE CONCENTR",
+                    "data": "1064",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SERVICIOS GENERALES -",
+                    "data": "616",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTRATOS - LB",
+                    "data": "618",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTRATOS",
+                    "data": "755",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SS.GG.",
+                    "data": "756",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE LOGISTICA",
+                    "data": "757",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE SISTEMAS INFORMATICOS",
+                    "data": "961",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE TECNOLOGÍA DE LA INFO",
+                    "data": "962",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE PLANTA CONCENTRADORA",
+            "data": "330",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE MINERODUCTO",
+                    "data": "606",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MTTO MECÁNICO",
+                    "data": "607",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE OPERACIONES",
+                    "data": "608",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MTTO ELECTRICO",
+                    "data": "742",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE METALURGIA",
+                    "data": "748",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MTTO ELECTRICO",
+                    "data": "773",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE AGUAS Y RELAVES",
+                    "data": "845",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENTE DE OPERACIONES MINA",
+            "data": "334",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE OPERACIONES MINA",
+                    "data": "731",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PERFORACIÓN Y VOLADUR",
+                    "data": "805",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONSTRUCCION Y DRENAJ",
+                    "data": "806",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GESTION",
+                    "data": "848",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE EXPLORACIONES",
+                    "data": "876",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOLOGÍA Y EXPLORACIO",
+                    "data": "895",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DEL PROYECTO NUEVA FUERABAMBA",
+            "data": "34",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE MANTENIMIENTO",
+            "data": "35",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE MANTTO MECÁNICO DE MI",
+                    "data": "140",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MTTO ELECTRICO MINA",
+                    "data": "148",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE SALUD, SEGURIDAD INDUSTRIAL Y",
+            "data": "36",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL DE PROYECTOS",
+            "data": "38",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANIFICACION ESTRAGT",
+                    "data": "128",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL ESTRATEGICO",
+                    "data": "129",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANIFICACION DE PERM",
+                    "data": "177",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO ESTRATEG",
+                    "data": "180",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA CORPORATIVO DE CUMPLIMIENTO",
+            "data": "39",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE SEGURIDAD Y SALUD",
+            "data": "402",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE SEGURIDAD",
+                    "data": "844",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE FINANZAS",
+            "data": "42",
+            "children": []
+        },
+        {
+            "label": "GERENTE DE SERVICIOS TECNICOS LB",
+            "data": "422",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO ESTRATEG",
+                    "data": "749",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO MINA",
+                    "data": "798",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE GEOTECNIA E HIDROGEOL",
+                    "data": "818",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE EXPLORACIONES",
+                    "data": "820",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA INFRAESTRUCTURA Y COMUNICACIONES",
+            "data": "424",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS DE IT",
+                    "data": "905",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA GENERAL TINTAYA-ANTAPACCAY",
+            "data": "43",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE COMUNICACION Y ASUNTO",
+                    "data": "127",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE NEGOCIACION DE TIERR",
+                    "data": "255",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE COMUNICACION Y ASUNTO",
+                    "data": "2974",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL DE CALIDAD",
+                    "data": "3016",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE ADMINISTRACION Y SERVICIOS LB",
+            "data": "432",
+            "children": []
+        },
+        {
+            "label": "GERENCIA COMERCIAL",
+            "data": "44",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE CONTROL DE PROYECTOS, COSTOS",
+            "data": "45",
+            "children": []
+        },
+        {
+            "label": "GERENCIA REL COMUNIT E INSTITUCION",
+            "data": "458",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE CONTROL DE GESTIÓN DE",
+                    "data": "809",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELACIONES COMUNITARI",
+                    "data": "819",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE MINA",
+            "data": "459",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE PUESTA EN MARCHA",
+            "data": "46",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PUESTA EN MARCHA",
+                    "data": "192",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RELACIONES COMUNITARIAS",
+            "data": "468",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE SITIO PROYECTO LAS BAMBAS",
+            "data": "47",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL LAS BAMBAS",
+            "data": "483",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE PROYECTO",
+            "data": "484",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA ING. Y CONSTRUCCION",
+                    "data": "1952",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE RECURSOS HUMANOS",
+            "data": "50",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE RECURSOS HUMANOS OPER",
+                    "data": "176",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RECURSOS HUMANOS PROY",
+                    "data": "179",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA RRCC DESTACADO",
+            "data": "508",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE ASUNTOS CORPORATIVOS",
+            "data": "518",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE ADMINISTRACIÓN Y SERVICIOS DI",
+            "data": "52",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PROYECTOS DE IT",
+                    "data": "104",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE ADM & SERVICIOS DIV.",
+                    "data": "147",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "XSDS GERENCIA DE RRHH DIV.SUR",
+            "data": "53",
+            "children": []
+        },
+        {
+            "label": "XSDS GERENCIA LEGAL DIV. SUR",
+            "data": "55",
+            "children": []
+        },
+        {
+            "label": "XSDS GERENCIA GENERAL DE ASUNTOS CORP.",
+            "data": "56",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE PLANTA CONCENTRADORA LB",
+            "data": "593",
+            "children": []
+        },
+        {
+            "label": "GERENCIA DE ADM. Y SERVICIOS",
+            "data": "60",
+            "children": []
+        },
+        {
+            "label": "XSDS GERENCIA DE FINANZAS",
+            "data": "65",
+            "children": []
+        },
+        {
+            "label": "GERENCIA GENERAL DE ASUNTOS CORPORATIVOS",
+            "data": "68",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE COMUNICACIONES LBA",
+                    "data": "190",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE FONDO SOCIAL",
+                    "data": "79",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE RELACIONES INSTITUCIO",
+                    "data": "86",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE DESARROLLO LOCAL",
+                    "data": "88",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "GERENCIA DE PROCESOS",
+            "data": "71",
+            "children": [
+                {
+                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO Y CONTRO",
+                    "data": "323",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE LABORATORIO QUIMICO",
+                    "data": "413",
+                    "children": []
+                },
+                {
+                    "label": "SUPERINTENDENCIA DE MANTTO ELECTRICO INST",
+                    "data": "414",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "XSAN GERENCIA REL COMUNIT E INSTITUCION",
+            "data": "76",
+            "children": []
+        },
+        {
+            "label": "XSAN GERENCIA ADM. MARKETING LOGIST Y TI",
+            "data": "77",
+            "children": []
+        },
+        {
+            "label": "GERENCIA ADJUNTO DE ASUNTOS PUBLICOS",
+            "data": "85",
+            "children": []
+        },
+        {
+            "label": "XSAN GERENCIA DE FINANZAS",
+            "data": "92",
+            "children": []
+        }
+    ],
+    "count": 125
+}
