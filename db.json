@@ -1,133 +1,14 @@
 {
-    "data": [
-        {
-            "label": "XSAN GERENCIA DE RRHH DIV.SUR",
-            "data": "103",
-            "children": [
-                {
-                    "label": "SUPERINTENDENCIA DE RRHH DIVISION SUR",
-                    "data": "434",
-                    "children": []
-                }
-            ]
-        },
-        {
-            "label": "XSAN GERENCIA DE MANTENIMIENTO MINA",
-            "data": "109",
-            "children": []
-        },
-        {
-            "label": "XSAN GERENCIA DE MINA",
-            "data": "110",
-            "children": []
-        },
-        {
-            "label": "XSDS GERENCIA ADJUNTO DE ASUNTOS PUBLICOS",
-            "data": "113",
-            "children": []
-        },
-        {
-            "label": "XSAN GERENCIA LEGAL DIV. SUR",
-            "data": "114",
-            "children": []
-        },
-        {
-            "label": "XSAN GERENCIA DE SERVICIOS TÉCNICOS",
-            "data": "116",
-            "children": []
-        },
-        {
-            "label": "GERENCIA DE INGENIERIA",
-            "data": "118",
-            "children": [
-                {
-                    "label": "SUPERINTENDENCIA DE INGENIERIA",
-                    "data": "264",
-                    "children": []
-                }
-            ]
-        },
-        {
-            "label": "XLB GERENCIA DE EVALUACIONES PD",
-            "data": "12",
-            "children": []
-        },
-        {
-            "label": "GERENCIA DE RELACIONES COMUNITARIAS",
-            "data": "121",
-            "children": [
-                {
-                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL",
-                    "data": "213",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE NEGOCIACION DE TIERRA",
-                    "data": "253",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE RELACIONES INSTITUCIO",
-                    "data": "272",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL ANTAPA",
-                    "data": "2759",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE UNIDADES DE GESTION S",
-                    "data": "2760",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE PROYECTOS Y PLANEAMIE",
-                    "data": "2761",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE GESTION DE ORGANIZACI",
-                    "data": "2762",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE PLANEAMIENTO, CONTROL",
-                    "data": "2995",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE CONTROL DE GESTION",
-                    "data": "395",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE DESARROLLO SOCIAL",
-                    "data": "396",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE GESTION SOCIAL",
-                    "data": "397",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE RRCC",
-                    "data": "398",
-                    "children": []
-                },
-                {
-                    "label": "SUPERINTENDENCIA DE DESARROLLO SOSTENIBLE",
-                    "data": "403",
-                    "children": []
-                }
-            ]
-        },
-        {
-            "label": "XSAN GERENCIA DE FINANZAS",
-            "data": "92",
-            "children": []
-        }
+    "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" },
+      { "id": 3, "title": "Post 3" }
     ],
-    "count": 125
-}
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
