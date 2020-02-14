@@ -1,14 +1,181 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+    "data": [
+        {
+            "codActiRelacionada": 1,
+            "descripcion": "Ninguna"
+        },
+        {
+            "codActiRelacionada": 2,
+            "descripcion": "Manipulación de cables"
+        },
+        {
+            "codActiRelacionada": 3,
+            "descripcion": "Operación de equipó pesado"
+        },
+        {
+            "codActiRelacionada": 4,
+            "descripcion": "Operación de equipo auxiliar"
+        },
+        {
+            "codActiRelacionada": 5,
+            "descripcion": "Operación de equipo de planta"
+        },
+        {
+            "codActiRelacionada": 6,
+            "descripcion": "Manipulación de componentes"
+        },
+        {
+            "codActiRelacionada": 7,
+            "descripcion": "Acopio de residuos"
+        },
+        {
+            "codActiRelacionada": 8,
+            "descripcion": "Mantenimiento de equipos de planta"
+        },
+        {
+            "codActiRelacionada": 9,
+            "descripcion": "Trabajo en cocina"
+        },
+        {
+            "codActiRelacionada": 10,
+            "descripcion": "Supervisión"
+        },
+        {
+            "codActiRelacionada": 11,
+            "descripcion": "Inspección"
+        },
+        {
+            "codActiRelacionada": 12,
+            "descripcion": "Tránsito"
+        },
+        {
+            "codActiRelacionada": 13,
+            "descripcion": "Trabajo de oficina"
+        },
+        {
+            "codActiRelacionada": 14,
+            "descripcion": "Mantenimiento de tolvas"
+        },
+        {
+            "codActiRelacionada": 15,
+            "descripcion": "Operación de vehículos livianos"
+        },
+        {
+            "codActiRelacionada": 16,
+            "descripcion": "Mantenimiento de subestaciones eléctricas"
+        },
+        {
+            "codActiRelacionada": 17,
+            "descripcion": "Mantenimiento de llantas gigantes"
+        },
+        {
+            "codActiRelacionada": 18,
+            "descripcion": "Mantenimiento de equipos móviles"
+        },
+        {
+            "codActiRelacionada": 19,
+            "descripcion": "Topografía"
+        },
+        {
+            "codActiRelacionada": 20,
+            "descripcion": "Manipulación de sustancias químicas"
+        },
+        {
+            "codActiRelacionada": 21,
+            "descripcion": "Desarmado de estructuras"
+        },
+        {
+            "codActiRelacionada": 22,
+            "descripcion": "Almacenamiento"
+        },
+        {
+            "codActiRelacionada": 23,
+            "descripcion": "Recepción y despacho de materiales"
+        },
+        {
+            "codActiRelacionada": 24,
+            "descripcion": "Limpieza"
+        },
+        {
+            "codActiRelacionada": 25,
+            "descripcion": "Movimiento de tierras"
+        },
+        {
+            "codActiRelacionada": 26,
+            "descripcion": "Manipulación de explosivos"
+        },
+        {
+            "codActiRelacionada": 27,
+            "descripcion": "Calibración de equipos"
+        },
+        {
+            "codActiRelacionada": 28,
+            "descripcion": "Manipulación de Herramientas"
+        },
+        {
+            "codActiRelacionada": 29,
+            "descripcion": "Monitoreo e instrumentación"
+        },
+        {
+            "codActiRelacionada": 30,
+            "descripcion": "Trabajos con Obras Civiles"
+        },
+        {
+            "codActiRelacionada": 31,
+            "descripcion": "Trabajos con obras mecánicas"
+        },
+        {
+            "codActiRelacionada": 32,
+            "descripcion": "Trabajos Eléctricos"
+        },
+        {
+            "codActiRelacionada": 33,
+            "descripcion": "Trabajos con HDPE"
+        },
+        {
+            "codActiRelacionada": 34,
+            "descripcion": "Transporte de Carga"
+        },
+        {
+            "codActiRelacionada": 35,
+            "descripcion": "Transporte de Concentrado"
+        },
+        {
+            "codActiRelacionada": 36,
+            "descripcion": "Transporte de sustancias peligrosas"
+        },
+        {
+            "codActiRelacionada": 37,
+            "descripcion": "Entrenamiento y Capacitación"
+        },
+        {
+            "codActiRelacionada": 38,
+            "descripcion": "Trabajos de metal mecánica"
+        },
+        {
+            "codActiRelacionada": 39,
+            "descripcion": "Desarrollo de voladura"
+        },
+        {
+            "codActiRelacionada": 40,
+            "descripcion": "Drenaje ó bombeo"
+        },
+        {
+            "codActiRelacionada": 41,
+            "descripcion": "Muestreria de ripios, rocas"
+        },
+        {
+            "codActiRelacionada": 42,
+            "descripcion": "Transporte de personal"
+        },
+        {
+            "codActiRelacionada": 43,
+            "descripcion": "Ninguna"
+        },
+        {
+            "codActiRelacionada": 44,
+            "descripcion": "Manipulación de cables"
+        }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "count": 44
   }
